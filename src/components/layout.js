@@ -12,15 +12,17 @@ class Layout extends React.Component {
     let header;
 
     if (location.pathname === rootPath) {
+      console.log({
+        ...scale(1),
+        marginBottom: rhythm(1),
+        marginTop: 0,
+      });
       header = (
         <h1
           style={{
-            ...scale(1),
+            // ...scale(1),
             marginBottom: rhythm(1),
             marginTop: 0,
-            display: `flex`,
-            alignItems: `center`,
-            justifyContent: `space-between`,
           }}
         >
           <Link
@@ -35,25 +37,6 @@ class Layout extends React.Component {
             Orientée<br />
             Sieste
           </Link>
-          <StaticImage
-            src="../images/homepage-image.png"
-            className="title-image"
-            layout="fixed"
-            formats={["auto", "webp", "avif"]}
-            placeholder="none"
-            height={150}
-            style={{
-              display: `block`,
-              marginLeft: rhythm(1 / 2),
-              marginBottom: 0,
-              minWidth: 150,
-              // borderRadius: `100%`,
-            }}
-            imgStyle={{
-              // borderRadius: `50%`,
-            }}
-            role="presentation"
-          />
         </h1>
       )
     } else {
