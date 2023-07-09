@@ -1,7 +1,7 @@
 ---
 title: Mode maintenance pour Symfony
 date: "2023-07-09T14:35:00.000Z"
-description: Utiliser un fichier pour activer un mode maintenance indépendant de l'injection de dépendance et de l'autoloader.
+description: Utiliser un fichier pour activer un mode maintenance découplé de l'injection de dépendance et de l'autoloader.
 image: symfony-mode-maintenance.jpg
 ---
 
