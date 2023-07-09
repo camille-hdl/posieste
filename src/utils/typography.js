@@ -27,7 +27,6 @@ Wordpress2016.baseLineHeight = 1.8;
 Wordpress2016.bodyWeight = 400;
 Wordpress2016.boldWeight = 800;
 const typography = new Typography(Wordpress2016)
-console.log("typography", typography);
 
 // Hot reload typography in development.
 if (process.env.NODE_ENV !== `production`) {

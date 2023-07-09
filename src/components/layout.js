@@ -12,11 +12,6 @@ class Layout extends React.Component {
     let header;
 
     if (location.pathname === rootPath) {
-      console.log({
-        ...scale(1),
-        marginBottom: rhythm(1),
-        marginTop: 0,
-      });
       header = (
         <h1
           style={{
