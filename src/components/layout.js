@@ -90,9 +90,9 @@ class Layout extends React.Component {
         <header>{header}</header>
         <main>{children}</main>
         <footer>
-          © {new Date().getFullYear()}, Built with
+          © {new Date().getFullYear()},
           {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
+          Camille Hodoul
         </footer>
       </div>
     )
