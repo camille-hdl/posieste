@@ -16,7 +16,7 @@ Wordpress2016.overrideThemeStyles = ({ adjustFontSizeTo }, options, styles) => {
       color: "#b32f0c",
     },
     "h1": {
-      ...adjustFontSizeTo("2rem"),
+      ...adjustFontSizeTo("1.8rem"),
     }
   }
 }
