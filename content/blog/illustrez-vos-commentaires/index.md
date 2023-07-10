@@ -65,11 +65,11 @@ Ces "images" ont été créées par [monodraw](https://monodraw.helftone.com), u
 
 ### Rester raisonnable
 
-Un dessin dans un commentaire, puisqu'il est fait dans un format aussi peu propice, devrait rester petit et simple.
+Puisqu'il est fait dans un format aussi peu propice, un dessin dans un commentaire devrait rester exceptionnel, petit et simple.
 
 Un diagramme trop grand n'a pas sa place dans un commentaire de code, ni d'ailleurs un grand nombre de petites images. Ils risquent de monopoliser l'espace à l'écran et de compliquer la compréhension plutôt que de la faciliter.  
 
-Si vous pensez qu'une grande illustration est nécessaire, elle aura sa place dans une base de connaissance externe.
+Si vous pensez qu'une grande illustration est nécessaire, elle pourra être mise dans une base de connaissance hors du code.
 
 ### Alternatives
 
