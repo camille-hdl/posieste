@@ -64,7 +64,7 @@ const Bio = ({ displayImage = true }) => {
       <p style={{
         marginBottom: 0,
       }}>
-        Le dev, mais tranquille.
+        Le dev tranquille.
         <br />
         <a href="/a-propos">
           À propos
