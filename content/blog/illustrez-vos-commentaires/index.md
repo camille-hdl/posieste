@@ -1,11 +1,11 @@
 ---
 title: Illustrez vos commentaires
 date: "2023-07-10T01:00:00.000Z"
-description: Intégrer des schémas faits de texte dans les commentaires de code
+description: Dessiner des schémas dans les commentaires de code
 image: monodraw-example.jpg
 ---
 
-Lors d'une présentation, j'ai enfin compris l'idée de "structural sharing" lorsque l'intervenante [a utilisé un schéma pour l'expliquer](https://youtu.be/Wo0qiGPSV-s?t=688).
+Lors d'une présentation sur les structures de données, j'ai enfin compris l'idée de "structural sharing" lorsque l'intervenante [a utilisé un schéma pour l'expliquer](https://youtu.be/Wo0qiGPSV-s?t=688).
 
 Une image est une façon efficace de communiquer les relations entre des éléments, la distance, la taille, le temps, qui sont tous des concepts pertinents dans un programme.
 
@@ -59,11 +59,11 @@ Voici deux exemples :
    └─────────────┘ ───────────────┴─`─'──`─'─┴─────▶
 ```
 
-Ces "images" a été créées par [monodraw](https://monodraw.helftone.com), une application macos payante (mais pas très chère) qui peut exporter ce genre de dessins au format texte.
+Ces "images" ont été créées par [monodraw](https://monodraw.helftone.com), une application macos payante (mais pas très chère) qui peut exporter ce genre de dessins au format texte.
 
 ![Menu d'export de monodraw](monodraw-export.png "L'export propose une liste de formats de commentaires courants.")
 
-### Ne pas exagérer
+### Rester raisonnable
 
 Un dessin dans un commentaire, puisqu'il est fait dans un format aussi peu propice, devrait rester petit et simple.
 
