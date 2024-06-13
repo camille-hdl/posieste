@@ -129,6 +129,7 @@ Plus d'informations sur [MDN](https://developer.mozilla.org/fr/docs/Web/JavaScri
 
 - [iHateRegex](https://ihateregex.io/) permet de visualiser une regex par un graphe, ce qui illustre bien son origine d'automate.
 - [regex101](https://regex101.com/) est un éditeur interactif qui explique bien chaque composant d'une expression et permet de choisir une implémentation (PCRE, JavaScript, ...).
+- [phprex](https://phphub.net/regex/) est un autre éditeur interactif pour PHP qui permet également de visualiser une regex par un graphe.
 - [regular-expressions.info](https://www.regular-expressions.info/) est une bonne source de documentation (en anglais).
 
 ![ihateregex](ihateregex.png "Le site ihateregex.io permet de visualiser une regex par un graphe")
